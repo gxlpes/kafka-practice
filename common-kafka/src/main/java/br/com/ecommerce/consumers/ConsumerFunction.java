@@ -1,4 +1,4 @@
-package com.gxlpes.ecommerce.consumers.spec;
+package br.com.ecommerce.consumers;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 

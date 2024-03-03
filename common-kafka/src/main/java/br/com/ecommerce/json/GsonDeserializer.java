@@ -1,4 +1,4 @@
-package com.gxlpes.ecommerce.json;
+package br.com.ecommerce.json;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,6 +1,6 @@
-package com.gxlpes.ecommerce.kafka;
+package br.com.ecommerce.kafka;
 
-import com.gxlpes.ecommerce.json.GsonSerializer;
+import br.com.ecommerce.json.GsonSerializer;
 import org.apache.kafka.clients.producer.Callback;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

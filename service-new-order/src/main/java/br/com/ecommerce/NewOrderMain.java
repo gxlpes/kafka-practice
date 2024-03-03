@@ -1,6 +1,6 @@
-package com.gxlpes.ecommerce.producers;
+package br.com.ecommerce;
 
-import com.gxlpes.ecommerce.kafka.KafkaDispatcher;
+import br.com.ecommerce.kafka.KafkaDispatcher;
 import com.gxlpes.ecommerce.models.Email;
 import com.gxlpes.ecommerce.models.Order;
 
